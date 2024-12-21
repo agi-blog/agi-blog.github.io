@@ -1,0 +1,9 @@
+title: TRL Workshop
+description: TRL Workshop
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+google_analytics: "G-TNBXJN1Y5L"
